@@ -4,8 +4,8 @@
 
 [![Version 0.1](https://img.shields.io/badge/Version-0.1-yellow.svg)](https://github.cloud.capitalone.com/HLO400/OneDuty/releases)
 
-![Screen Shot](https://github.cloud.capitalone.com/HLO400/OneDuty/blob/master/Images/od.gif)
-![Touch Bar](https://github.cloud.capitalone.com/HLO400/OneDuty/blob/master/Images/OneDutyTouchBarSS.png)
+![](https://github.com/cozma/OneDuty/blob/master/Images/od.gif)
+![](https://github.com/cozma/OneDuty/blob/master/Images/OneDutyTouchBarSS.png)
 
 ## Setup Requirements
 
